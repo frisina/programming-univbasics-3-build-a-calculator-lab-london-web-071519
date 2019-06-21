@@ -9,11 +9,13 @@ return substract
 end
 
 def division(num1, num2)
-
+divide = num1 / num2
+return divide
 end
 
 def multiplication(num1, num2)
-
+multiply = num1 * num2
+return multiply
 end
 
 def modulo(num1, num2)
