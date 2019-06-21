@@ -24,5 +24,6 @@ return mod
 end
 
 def square_root(num)
-square = num ^^
+square = cmath.sqrt(num)
+return square 
 end
